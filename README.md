@@ -22,21 +22,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| 🌬️ Wind Speed Prediction | LightGBM with lag features & Optuna tuning | LightGBM, sklearn, Optuna |
-| 💰 Loan Approval Classifier | Full ML pipeline with iterative imputation | LightGBM, IterativeImputer |
-| 🥇 Gold Price Prediction | Autocorrelation analysis + custom BGD regressor | Pandas, sklearn, Prophet |
-| ❤️ Heart Disease Classification | 8-classifier benchmark with AUC analysis | Logistic Regression, sklearn |
-| 📰 Fake News Classifier | Class imbalance fix with balanced LR | TF-IDF, LogisticRegression |
-| 🚗 Car Price Prediction | Pipeline with OHE & LinearRegression | sklearn, Pandas |
-| 📩 Spam Classifier | Text preprocessing → TF-IDF → MultinomialNB | sklearn, NLP |
-| 📚 Book Recommendation System | Collaborative filtering engine | Pandas, NumPy |
-
----
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
