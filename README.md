@@ -17,8 +17,6 @@
 - 🎓 Actively learning **Machine Learning & Data Science** through hands-on projects
 - 🔭 Building end-to-end ML pipelines using **scikit-learn, LightGBM, XGBoost**
 - 📊 Passionate about turning raw data into real insights
-- 🛠️ Working in **Python · VS Code · Anaconda** on Windows
-- 📍 Based in Karachi, Pakistan
 
 ---
 
